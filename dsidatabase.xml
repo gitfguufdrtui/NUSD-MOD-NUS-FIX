@@ -1,0 +1,142 @@
+<database v="(08/04/2015)"><!--MM/DD/YYYY-->
+	<DSISYSTEM>
+		<name>System Menu (Launcher)</name>
+		<titleID>00030017484e41XX</titleID>
+		<region>1,2,5,6,8,10</region>
+		<version>256 (Japan),512,768,1024,1280,1536,1792</version>
+		<ticket>true</ticket>
+		<danger>This is the DSi System Menu. Failing to install it properly and intact could result in a brick!</danger>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>System Settings</name>
+		<titleID>00030015484e42XX</titleID>
+		<region>1,2,5,6,8,10</region>
+		<version>512,768</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>WiFi Firmware</name>
+		<titleID>0003000f484e43XX</titleID>
+		<region>0</region>
+		<version>256,512</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>DS Download Play</name>
+		<titleID>00030005484e44XX</titleID>
+		<region>0</region>
+		<version>256</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Pictochat</name>
+		<titleID>00030005484e45XX</titleID>
+		<region>0</region>
+		<version>0</version>
+		<ticket>false</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Nintendo DSi Shop</name>
+		<titleID>00030015484e46XX</titleID>
+		<region>1,2,5,6,8,10</region>
+		<version>1536,1792,2048,2304,2560,2816,3072</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Nintendo DSi Browser</name>
+		<titleID>00030004484e47XX</titleID>
+		<region>2,5,8,10</region>
+		<version>0,256,512,768</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Nintendo DS Cart Whitelist</name>
+		<titleID>0003000f484e48XX</titleID>
+		<region>0</region>
+		<version>256,512,768,1024,1280,1536</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Nintendo DSi Camera</name>
+		<titleID>00030005484e49XX</titleID>
+		<region>2,5,8,10</region>
+		<version>256,768,1024</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Nintendo Zone</name>
+		<titleID>00030005484e4aXX</titleID>
+		<region>2,5,8,10</region>
+		<version>512,768</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Nintendo DSi Sound</name>
+		<titleID>00030005484e4bXX</titleID>
+		<region>2,5,8,10</region>
+		<version>256,512</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Version Data</name>
+		<titleID>0003000f484e4cXX</titleID>
+		<region>1,2,5,6,8,10</region>
+		<version>1 (Japan),2 (Japan),3 (Australia/New Zealand),4 (China),5,6,7,8,9</version>
+		<ticket>true</ticket>
+	</DSISYSTEM>
+	<DSISYSTEM>
+		<name>Nintendo 3DS Transfer Tool</name>
+		<titleID>00030015484e4fXX</titleID>
+		<region>2,5,6,8,10</region>
+		<version>0,256</version>
+		<ticket>false</ticket>
+	</DSISYSTEM>
+ 
+	<DSIWARE>
+		<name>Sudoku</name>
+		<titleID>000300044b3444XX</titleID>
+		<region>2,11</region>
+		<version>0 (EUR/AUS),1 (USA),256 (EUR/AUS),257 (USA)</version>
+		<ticket>false</ticket>
+	</DSIWARE>
+	<DSIWARE>
+		<name>Paper Airplane Chase</name>
+		<titleID>000300044b414dXX</titleID>
+		<region>2,11</region>
+		<ticket>false</ticket>
+	</DSIWARE>
+	<DSIWARE>
+		<name>Flipnote Studio</name>
+		<titleID>000300044b4755XX</titleID>
+		<region>2,5,11</region>
+		<version>0,512 (Japan)</version>
+		<ticket>true</ticket>
+	</DSIWARE>
+	<DSIWARE>
+		<name>Dokodemo Wii no Ma</name>
+		<titleID>000300044B4447XX</titleID>
+		<region>5</region>
+		<version>0,256</version>
+		<ticket>true</ticket>
+	</DSIWARE>
+	<DSIWARE>
+		<name>WarioWare: Snapped!</name>
+		<titleID>000300044b5557XX</titleID>
+		<region>2,11</region>
+		<ticket>false</ticket>
+	</DSIWARE>
+	<REGIONS>
+		<region index="0">41 (All/System)</region>
+		<region index="1">43 (China)</region>
+		<region index="2">45 (USA)</region>
+		<region index="3">48 (Europe, Belgium/Netherlands)</region>
+		<region index="5">4A (Japan)</region>
+		<region index="6">4B (Korea)</region>
+		<region index="7">4F (USA/Europe)</region>
+		<region index="8">50 (Europe)</region>
+		<region index="9">54 (USA/Australia)</region>
+		<region index="10">55 (Australia)</region>
+		<region index="11">56 (Europe/Australia)</region>
+		<region index="12">xx (Unknown)</region>
+	</REGIONS>
+</database>
