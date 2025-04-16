@@ -1,0 +1,25 @@
+Vous pouvez soit utiliser une sauvegarde Wii NAND, soit utiliser le téléchargeur NUS.
+
+Comment ça marche?
+
+Tout d’abord, vous téléchargez le pack  et l’extrayez.
+
+Ensuite, vous exécutez "NUS Downloader.exe"
+
+Vous devriez voir "Base de données..." en haut à gauche. Appuyez dessus et allez dans "Système" (celui avec l'icône Wii)
+
+Sélectionnez le menu système 0000000100000002 et sélectionnez la région et la version du système souhaitées.
+
+Après cela, cliquez sur « Pack WAD » et cliquez sur Démarrer le téléchargement NUS ! après.
+
+Après cela, retournez au dossier où se trouve NUS Downloader.
+
+Il devrait y avoir un dossier de titres avec de longs numéros.
+
+Accédez à ce dossier et au dossier qui s'y trouve également.
+
+Vous devriez avoir un fichier WAD appelé "RVL-WiiSystemmenu-vXXX.wad" XXX comme version.
+
+Vous pouvez installer ce WAD dans Dolphin et boum, Wii Menu.
+
+Notez qu'il ne s'agit que du menu Wii lui-même.
